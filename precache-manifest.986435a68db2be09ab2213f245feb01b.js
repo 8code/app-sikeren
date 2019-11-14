@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59fe7c296858fafb17c5",
+    "revision": "3b168eac483d7608ede3",
     "url": "css/app.b653b040.css"
   },
   {
-    "revision": "e806a0d6d3248bd446044e74e3ede177",
+    "revision": "b65431ee628f4525daa6c38ae06c414d",
     "url": "index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/4b47640d.607ee95e.js"
   },
   {
-    "revision": "59fe7c296858fafb17c5",
-    "url": "js/app.05df173c.js"
+    "revision": "3b168eac483d7608ede3",
+    "url": "js/app.d073704d.js"
   },
   {
     "revision": "eb7b17e80a6b0f0b62e0",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "805b0a66d63db95a76ddda23e3a8c12f",
+    "revision": "22d919b371ea17042e00298899fd4796",
     "url": "statics/app-logo-128x128.png"
   },
   {
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8fdfe20437ccd115ee07cb684685ded",
     "url": "statics/icons/icon-512x512.png"
+  },
+  {
+    "revision": "2558ea41ebf5f1365f8651b977c56b16",
+    "url": "statics/icons/logo-pesantren.png"
   },
   {
     "revision": "6624870bb64b1a562e8438e57cdc636a",
