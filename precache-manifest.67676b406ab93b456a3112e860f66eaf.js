@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ea6a7e244b42268a871",
+    "revision": "23004d01b0afcc4bee05",
     "url": "css/app.c5450be4.css"
   },
   {
-    "revision": "7db1605689858656d55c2c2582124bd7",
+    "revision": "4e51dded00cd046bd0ee20271e6dc2dd",
     "url": "index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/4b47640d.52797b34.js"
   },
   {
-    "revision": "1ea6a7e244b42268a871",
-    "url": "js/app.c8185cf8.js"
+    "revision": "23004d01b0afcc4bee05",
+    "url": "js/app.2d80f02d.js"
   },
   {
     "revision": "eb7b17e80a6b0f0b62e0",
     "url": "js/fastclick.5251028d.js"
   },
   {
-    "revision": "25bb8213cbcc89e979bd",
-    "url": "js/vendor.7da239e0.js"
+    "revision": "0f0da269623408b59b5c",
+    "url": "js/vendor.85fe3eab.js"
   },
   {
     "revision": "5b478cd46d0a1048dfd6a76addedb938",
@@ -72,6 +72,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/img/bg.png"
   },
   {
+    "revision": "a5895d3a4fe140f30d4cd0ce2a9b3b0a",
+    "url": "statics/img/home.png"
+  },
+  {
+    "revision": "e4e970a84550e125872b593a25b5f960",
+    "url": "statics/img/load-more.png"
+  },
+  {
+    "revision": "9ab1958b7a475b1329a7d55b3782588e",
+    "url": "statics/img/loading.png"
+  },
+  {
     "revision": "2558ea41ebf5f1365f8651b977c56b16",
     "url": "statics/img/logo-pesantren.png"
   },
@@ -88,11 +100,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/img/money.png"
   },
   {
-    "revision": "f3e3b50cc3d0192c2eb76cbb0529ea31",
-    "url": "statics/img/pitri.png"
+    "revision": "553a667a9626764405feed267aefc00d",
+    "url": "statics/img/putra.png"
   },
   {
-    "revision": "e94699f0fd3feba4306d4b0467626354",
-    "url": "statics/img/putra.png"
+    "revision": "9b16d298c2dc367b1d7c7f299b0294d8",
+    "url": "statics/img/putri.png"
+  },
+  {
+    "revision": "cbe0919da7913ac5e76448a5d5173e9b",
+    "url": "statics/img/tabungan.png"
+  },
+  {
+    "revision": "4f3ebc3ae1c15e50fe9facf6faa4908f",
+    "url": "statics/img/tagihan.png"
   }
 ]);
