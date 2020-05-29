@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b3a6677401d376a18a4d91fadb01ca4b.js"
+  "precache-manifest.df91ec76fb5d7319da16fba7be929a17.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sikeren"});
