@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "813ec72a63c104ed74b3",
-    "url": "css/app.32cdaabb.css"
+    "revision": "4cd30d73ce3ab8bfd4ff",
+    "url": "css/app.217cb7ca.css"
   },
   {
-    "revision": "b6a43d57833f8ad05cb2f087f1cd4462",
+    "revision": "995abe098390568ffc215604a46dbb7f",
     "url": "index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/4b47640d.52797b34.js"
   },
   {
-    "revision": "813ec72a63c104ed74b3",
-    "url": "js/app.e9cb920a.js"
+    "revision": "4cd30d73ce3ab8bfd4ff",
+    "url": "js/app.9baeb4dd.js"
   },
   {
     "revision": "eb7b17e80a6b0f0b62e0",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9b16d298c2dc367b1d7c7f299b0294d8",
     "url": "statics/img/putri.png"
+  },
+  {
+    "revision": "1cda61edefb500ab4d2bd62bec826ebf",
+    "url": "statics/img/qrcode.png"
   },
   {
     "revision": "cbe0919da7913ac5e76448a5d5173e9b",
