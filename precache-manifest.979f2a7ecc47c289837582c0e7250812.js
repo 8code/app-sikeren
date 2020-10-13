@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1472dc300d51d93b2dac",
-    "url": "css/app.2b6b36d0.css"
+    "revision": "a77a9b1c604f0ca3cb82",
+    "url": "css/app.7f85d858.css"
   },
   {
-    "revision": "a646e94ea1a0c187b80352f23cc85307",
+    "revision": "33b39f3ee9cd5da32a3fdf405f06e92f",
     "url": "index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/4b47640d.52797b34.js"
   },
   {
-    "revision": "1472dc300d51d93b2dac",
-    "url": "js/app.4cb11f15.js"
+    "revision": "a77a9b1c604f0ca3cb82",
+    "url": "js/app.c34b9a46.js"
   },
   {
     "revision": "eb7b17e80a6b0f0b62e0",
     "url": "js/fastclick.5251028d.js"
   },
   {
-    "revision": "1e759495d835bded516f",
-    "url": "js/vendor.c5ece6fd.js"
+    "revision": "cb827b6cface6ec4028f",
+    "url": "js/vendor.9fe669d0.js"
   },
   {
     "revision": "da8767b9a882310360f351370d03a4b7",
@@ -66,6 +66,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f89908be6d7eac9077dbc80062ba2226",
     "url": "statics/icons/icon-96x96.png"
+  },
+  {
+    "revision": "882ba7db599613d8c8674ee1a53ed3ab",
+    "url": "statics/img/a-home.png"
+  },
+  {
+    "revision": "e18cbe80ae7565fe2bd598f10bbf2c99",
+    "url": "statics/img/a-putra.png"
+  },
+  {
+    "revision": "886bfe4593ecfbcede3eac1c2c3a8dca",
+    "url": "statics/img/a-putri.png"
+  },
+  {
+    "revision": "fd5f2ece29eabd5d2c06ec149e39956c",
+    "url": "statics/img/a-tabungan.png"
+  },
+  {
+    "revision": "b1fd3cc6bca9653832977abd38606180",
+    "url": "statics/img/a-tagihan.png"
   },
   {
     "revision": "fd7a021a30d28007093efb43bbe6d343",
@@ -120,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/img/money.png"
   },
   {
-    "revision": "553a667a9626764405feed267aefc00d",
+    "revision": "9b8e72998fc2b09a7957b36eb336643c",
     "url": "statics/img/putra.png"
   },
   {
