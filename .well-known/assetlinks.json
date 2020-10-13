@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.hplogz",
+      "sha256_cert_fingerprints": [
+          "73:BE:0B:CF:14:BC:4E:17:39:8A:4A:52:1C:FD:01:01:2C:73:71:E0:5E:1C:6C:38:FA:1E:3D:4B:28:A0:2B:20",
+          "4A:6B:44:68:56:DC:12:15:65:68:CC:C1:70:84:60:3A:EA:C3:C2:73:41:9A:7B:43:13:84:18:17:F0:B3:26:74"
+          ]
+    }
+  }
+]
